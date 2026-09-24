@@ -1,1 +1,1 @@
-# lant-leaf-disease-detection
+#leaf-disease-detection
